@@ -20,7 +20,7 @@
 
         {{-- @include("partial.footer") --}}
 
-        @yield("script-adder")     
+        {{-- @yield("script-adder")      --}}
         
     </body>
 </html>
